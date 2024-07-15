@@ -5,7 +5,7 @@
 <b> The game:
 </b>
 
-Birdie (the little girl) starting her path from a cold place (Russia) and has to go through obstacles (Society's judgment, her father's alcoholism, ...) in her journey and adapt to these obstacles (dodge) using the power of music.
+Birdie (the little girl) starting her path from a cold place (Russia) and has to go through obstacles (Society's judgment, her father's alcoholism, ...) in her journey and adapts to these obstacles (dodge) and use them to grow using the power of music.
 
 <h2> Gameplay: </h2>
 
